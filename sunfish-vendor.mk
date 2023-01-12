@@ -516,7 +516,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel4 \
     DiagMon \
     EuiccGoogle \
@@ -537,7 +536,6 @@ PRODUCT_PACKAGES += \
     EuiccGoogleOverlay \
     EuiccSupportPixel \
     EuiccSupportPixelPermissions \
-    HbmSVManager \
     MyVerizonServices \
     OBDM_Permissions \
     PixelNfc \

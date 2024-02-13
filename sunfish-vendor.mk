@@ -97,7 +97,6 @@ PRODUCT_PACKAGES += \
     EuiccSupportPixelPermissions \
     MyVerizonServices \
     OBDM_Permissions \
-    PixelNfc \
     RilConfigService \
     grilservice \
     ims \
